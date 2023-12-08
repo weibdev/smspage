@@ -194,6 +194,6 @@ app.get("/*", (req, res) => {
 
 })
 
-app.listen("5000", () => {
-    console.log("Server on PORT: 5000");
+app.listen("3000", () => {
+    console.log("Server on PORT: 3000");
 })
